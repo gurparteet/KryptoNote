@@ -1,4 +1,4 @@
-# ** KryptoNote **
+#  KryptoNote 
 As I have officially passed my EECS 1022 course in Fall 2020 semester , I would like to share an app that I made as a Lab on Android Studio using 
 "@Introduction to Computer Science with Andriod Studio- by Hamza Roumani"
 
@@ -41,4 +41,22 @@ and added indentified its spot and adjused to next number using from ad and alph
                        }
          return result ;
          
-```         
+```
+
+## First Look : 
+![First Look](Assests/1.png)
+
+## Adding a Message and Key
+![encrypting](Assests/2.png)
+
+![encrypting](Assests/3.png)
+
+![encrypting](Assests/4.png)
+
+![encrypting](Assests/5.png)
+
+![encrypting](Assests/6.png)
+
+![encrypting](Assests/7.png)
+
+![encrypting](Assests/8.png)
