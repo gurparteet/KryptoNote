@@ -49,14 +49,19 @@ and added indentified its spot and adjused to next number using from ad and alph
 ## Adding a Message and Key
 ![encrypting](Assests/2.png)
 
+## Click Encrypt after entering the key and message.
 ![encrypting](Assests/3.png)
 
+## The message in the input box is the coded message 
 ![encrypting](Assests/4.png)
 
-![encrypting](Assests/5.png)
-
-![encrypting](Assests/6.png)
-
-![encrypting](Assests/7.png)
-
+## The coded message can be saved to local file and can be sent to your girlfriend's family email(lol!) 
+![saving](Assests/5.png)
+## Since your girlfriend already has this app installed and file (downloaded from email ) she can load the message 
+![decrypting](Assests/6.png)
+## And I'm sure use must have given her the Key to decode at school (hypothecial situation) (Do kill me in comments if you dont find it funny)
+![decrypting](Assests/7.png)
+## Hit Decrypt and  *There is your coded message* 
 ![encrypting](Assests/8.png)
+
+
